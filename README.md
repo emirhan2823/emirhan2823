@@ -14,3 +14,58 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm Emirhan</h1>
+<h3 align="center">Computer Engineering Student | AI & Quant Trading Enthusiast 🚀</h3>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=emirhan2823&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirhan2823&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=86400" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=emirhan2823&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emirhan2823&theme=tokyo-night" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</p>
+
+---
+
+## 🚀 Focus Areas
+
+- 🤖 Artificial Intelligence & Machine Learning  
+- 📈 Quantitative Trading Systems  
+- 💻 Software Architecture  
+- ⚙️ Automation & DevOps  
+- 📊 Data Analysis
+
+---
+
+> ⚡ "Building systems that scale — from code to capital."
