@@ -22,8 +22,12 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=emirhan2823&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400&v=1" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirhan2823&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=86400&v=1" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emirhan2823&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=emirhan2823&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emirhan2823&theme=tokyonight" />
 </p>
 
 ---
