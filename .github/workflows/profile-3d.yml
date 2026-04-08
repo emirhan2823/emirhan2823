@@ -20,14 +20,21 @@ jobs:
           SETTING_JSON: |
             [
               {
-                "type": "nightGreen",
+                "type": "normal",
                 "fileName": "profile-night-green-animate.svg",
-                "animation": true
-              },
-              {
-                "type": "nightGreen",
-                "fileName": "profile-night-green.svg",
-                "animation": false
+                "backgroundColor": "#0a0e27",
+                "foregroundColor": "#e2e8f0",
+                "strongColor": "#a78bfa",
+                "weakColor": "#64748b",
+                "radarColor": "#10b981",
+                "growingAnimation": true,
+                "contribColors": [
+                  "#1e293b",
+                  "#065f46",
+                  "#059669",
+                  "#10b981",
+                  "#34d399"
+                ]
               }
             ]
       - name: Commit & Push
