@@ -57,14 +57,14 @@ currently_learning: [ "Deep Learning", "Algorithmic Trading", "System Design" ]
 ## GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=emirhan2823&show_icons=true&hide_border=true&bg_color=00000000&title_color=a78bfa&icon_color=10b981&text_color=e2e8f0&ring_color=7c3aed&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=emirhan2823&hide_border=true&background=00000000&ring=7C3AED&fire=10B981&currStreakLabel=A78BFA&sideLabels=e2e8f0&currStreakNum=e2e8f0&dates=64748b&sideNums=e2e8f0&stroke=1e293b" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=emirhan2823&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=10b981&text_color=e2e8f0&ring_color=7c3aed&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=emirhan2823&hide_border=true&background=0D1117&ring=7C3AED&fire=10B981&currStreakLabel=A78BFA&sideLabels=e2e8f0&currStreakNum=e2e8f0&dates=64748b&sideNums=e2e8f0&stroke=1e293b" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirhan2823&layout=donut&hide_border=true&bg_color=00000000&title_color=a78bfa&text_color=e2e8f0&langs_count=6" alt="Top Languages"/>
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirhan2823&layout=donut&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0&langs_count=6" alt="Top Languages"/>
 </div>
 
 <br/>
@@ -92,12 +92,12 @@ currently_learning: [ "Deep Learning", "Algorithmic Trading", "System Design" ]
 <br/>
 
 <!-- ══════════ 3D CONTRIB ══════════ -->
-
+<!-- Uncomment after running "Generate 3D Contribution Calendar" workflow
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" width="98%" alt="3D Contribution Calendar"/>
 </div>
-
 <br/>
+-->
 
 <!-- ══════════ DETAILED STATS ══════════ -->
 
