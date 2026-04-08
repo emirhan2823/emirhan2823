@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Aurora Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,30:3b82f6,70:10b981,100:06b6d4&height=230&section=header&text=Emirhan%20Y%C4%B1ld%C4%B1z&fontSize=52&fontColor=e2e8f0&animation=fadeIn&fontAlignY=32&desc=Computer%20Engineering%20Student%20%7C%20AI%20%26%20Quant%20Trading%20Enthusiast&descSize=16&descColor=a5b4fc&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,30:3b82f6,70:10b981,100:06b6d4&height=230&section=header&text=Emirhan%20Yildiz&fontSize=52&fontColor=e2e8f0&animation=fadeIn&fontAlignY=32&desc=Computer%20Engineering%20|%20AI%20%26%20Quant%20Trading&descSize=16&descColor=a5b4fc&descAlignY=55" width="100%" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%A4%96+Building+AI+%26+ML+Systems;%F0%9F%93%88+Quantitative+Trading+%26+Finance;%F0%9F%92%BB+Systems+That+Scale+%E2%80%94+From+Code+to+Capital" alt="Typing SVG" /></a>
@@ -52,32 +52,16 @@ fun_fact: "Building systems that scale — from code to capital."
 <br/><br/>
 
 <!-- Python -->
-<div>
-  <img src="https://img.shields.io/badge/Python-0a0e27?style=flat-square&logo=python&logoColor=a78bfa" height="20"/>
-  <br/>
-  <img src="https://progress-bar.xyz/90/?title=&width=300&color=7c3aed" alt="Python 90%"/>
-</div>
+`Python` ████████████████████░░ **90%**
 
 <!-- C++ -->
-<div>
-  <img src="https://img.shields.io/badge/C++-0a0e27?style=flat-square&logo=cplusplus&logoColor=60a5fa" height="20"/>
-  <br/>
-  <img src="https://progress-bar.xyz/75/?title=&width=300&color=3b82f6" alt="C++ 75%"/>
-</div>
+`C++` ███████████████░░░░░░ **75%**
 
 <!-- Swift -->
-<div>
-  <img src="https://img.shields.io/badge/Swift-0a0e27?style=flat-square&logo=swift&logoColor=10b981" height="20"/>
-  <br/>
-  <img src="https://progress-bar.xyz/65/?title=&width=300&color=10b981" alt="Swift 65%"/>
-</div>
+`Swift` █████████████░░░░░░░░ **65%**
 
-<!-- JavaScript/TypeScript -->
-<div>
-  <img src="https://img.shields.io/badge/JavaScript-0a0e27?style=flat-square&logo=javascript&logoColor=06b6d4" height="20"/>
-  <br/>
-  <img src="https://progress-bar.xyz/60/?title=&width=300&color=06b6d4" alt="JS 60%"/>
-</div>
+<!-- JavaScript -->
+`JavaScript` ████████████░░░░░░░░░ **60%**
 
 </td><td>
 
@@ -177,8 +161,7 @@ fun_fact: "Building systems that scale — from code to capital."
 <tr>
 <td align="center" width="33%">
 
-<img width="60" src="https://img.icons8.com/nolan/64/artificial-intelligence.png" alt="AI"/>
-<br/>
+<h1>🤖</h1>
 <strong>AI & Machine Learning</strong>
 <br/>
 <sub>Deep Learning, NLP, Computer Vision,<br/>Model Optimization</sub>
@@ -186,8 +169,7 @@ fun_fact: "Building systems that scale — from code to capital."
 </td>
 <td align="center" width="33%">
 
-<img width="60" src="https://img.icons8.com/nolan/64/stocks.png" alt="Trading"/>
-<br/>
+<h1>📈</h1>
 <strong>Quantitative Trading</strong>
 <br/>
 <sub>Algorithmic Strategies, Backtesting,<br/>Signal Processing</sub>
@@ -195,8 +177,7 @@ fun_fact: "Building systems that scale — from code to capital."
 </td>
 <td align="center" width="33%">
 
-<img width="60" src="https://img.icons8.com/nolan/64/settings.png" alt="Systems"/>
-<br/>
+<h1>⚙️</h1>
 <strong>System Architecture</strong>
 <br/>
 <sub>Scalable Design, DevOps,<br/>Infrastructure Automation</sub>
