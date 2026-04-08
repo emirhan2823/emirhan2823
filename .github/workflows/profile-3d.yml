@@ -17,6 +17,19 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: |
+            [
+              {
+                "type": "nightGreen",
+                "fileName": "profile-night-green-animate.svg",
+                "animation": true
+              },
+              {
+                "type": "nightGreen",
+                "fileName": "profile-night-green.svg",
+                "animation": false
+              }
+            ]
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
