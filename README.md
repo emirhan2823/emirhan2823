@@ -94,7 +94,7 @@ currently_learning: [ "Deep Learning", "Algorithmic Trading", "System Design" ]
 <!-- ══════════ 3D CONTRIB ══════════ -->
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" width="98%" alt="3D Contribution Calendar"/>
+  <img src="./profile-3d-contrib/profile-green-animate.svg" width="98%" alt="3D Contribution Calendar"/>
 </div>
 
 <br/>
