@@ -7,13 +7,11 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=2500&pause=1000&color=64748B&center=true&vCenter=true&repeat=true&width=450&height=25&lines=Computer+Engineering+Student+%F0%9F%87%B9%F0%9F%87%B7;AI+%26+Quantitative+Trading+Enthusiast" alt="Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=2500&pause=1000&color=64748B&center=true&vCenter=true&repeat=true&width=500&height=25&lines=Computer+Engineering+%F0%9F%87%B9%F0%9F%87%B7;Quant+Trading+%C2%B7+iOS+%C2%B7+Game+Dev" alt="Subtitle" />
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=emirhan2823&style=flat-square&color=7c3aed&labelColor=0a0e27&label=views" alt="Profile Views"/>
-&nbsp;&nbsp;
-<a href="https://github.com/emirhan2823?tab=repositories"><img src="https://img.shields.io/badge/repos-emirhan2823-10b981?style=flat-square&labelColor=0a0e27" alt="Repos"/></a>
 
 </div>
 
@@ -25,12 +23,59 @@
 name: Emirhan Yildiz
 role: Computer Engineering Student
 location: Turkey
-interests:
-  - Artificial Intelligence & Machine Learning
-  - Quantitative Trading Systems
-  - Software Architecture & Design Patterns
-currently_learning: [ "Deep Learning", "Algorithmic Trading", "System Design" ]
+interests: [ Quant Trading, iOS Development, Game Dev ]
+languages: [ Python, Swift, Kotlin, C# ]
 ```
+
+<!-- ══════════ WHAT I BUILD ══════════ -->
+
+## What I Build
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+
+**Quant & Algo Trading**<br/>
+<sub>Trading systems,<br/>crypto bots, backtesting</sub>
+
+</td>
+<td align="center" width="33%">
+
+**iOS / macOS Apps**<br/>
+<sub>Swift & SwiftUI<br/>native apps</sub>
+
+</td>
+<td align="center" width="33%">
+
+**Game Development**<br/>
+<sub>Unity C# games</sub>
+
+</td>
+</tr>
+</table>
+</div>
+
+<!-- ══════════ FEATURED PROJECTS ══════════ -->
+
+## Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/emirhan2823/argus-trading">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=emirhan2823&repo=argus-trading&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=10b981&text_color=e2e8f0" alt="argus-trading"/>
+</a>
+<a href="https://github.com/emirhan2823/argus-research">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=emirhan2823&repo=argus-research&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=10b981&text_color=e2e8f0" alt="argus-research"/>
+</a>
+<a href="https://github.com/emirhan2823/Factory-Salvage">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=emirhan2823&repo=Factory-Salvage&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=10b981&text_color=e2e8f0" alt="Factory-Salvage"/>
+</a>
+<a href="https://github.com/emirhan2823/study-guide-app">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=emirhan2823&repo=study-guide-app&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=10b981&text_color=e2e8f0" alt="study-guide-app"/>
+</a>
+
+</div>
 
 <!-- ══════════ TECH STACK ══════════ -->
 
@@ -39,13 +84,7 @@ currently_learning: [ "Deep Learning", "Algorithmic Trading", "System Design" ]
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,kotlin,swift&theme=dark&perline=5" alt="Languages"/>
-</a>
-
-<br/><br/>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=5" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=python,swift,kotlin,cs,git,github,vscode&theme=dark&perline=7" alt="Tech Stack"/>
 </a>
 
 </div>
